@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\03-Collections\Collections.Test\bin\Debug\Collections.Test.dll
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\03-Collections\Collections.Test\bin\Debug\Collections.Test.pdb
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\03-Collections\Collections.Test\bin\Debug\Collections.dll
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\03-Collections\Collections.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\03-Collections\Collections.Test\bin\Debug\Collections.pdb
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\03-Collections\Collections.Test\obj\Debug\Collections.Test.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\03-Collections\Collections.Test\obj\Debug\Collections.Test.dll
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\03-Collections\Collections.Test\obj\Debug\Collections.Test.pdb
