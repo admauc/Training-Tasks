@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\07-IO Streams\IOStreams\bin\Debug\IOStreams.dll
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\07-IO Streams\IOStreams\bin\Debug\IOStreams.pdb
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\07-IO Streams\IOStreams\obj\Debug\IOStreams.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\07-IO Streams\IOStreams\obj\Debug\IOStreams.dll
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\07-IO Streams\IOStreams\obj\Debug\IOStreams.pdb

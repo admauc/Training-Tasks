@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\07-IO Streams\IOStreams.Tests\bin\Debug\Resources\german_ISO-8859-1.txt
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\07-IO Streams\IOStreams.Tests\bin\Debug\Resources\Planets.xlsx
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\07-IO Streams\IOStreams.Tests\bin\Debug\Resources\Planets.xlsx.deflate
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\07-IO Streams\IOStreams.Tests\bin\Debug\Resources\Planets.xlsx.gzip
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\07-IO Streams\IOStreams.Tests\bin\Debug\IOStreams.Tests.dll
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\07-IO Streams\IOStreams.Tests\bin\Debug\IOStreams.Tests.pdb
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\07-IO Streams\IOStreams.Tests\bin\Debug\IOStreams.dll
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\07-IO Streams\IOStreams.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\07-IO Streams\IOStreams.Tests\bin\Debug\IOStreams.pdb
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\07-IO Streams\IOStreams.Tests\obj\Debug\IOStreams.Tests.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\07-IO Streams\IOStreams.Tests\obj\Debug\IOStreams.Tests.dll
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\07-IO Streams\IOStreams.Tests\obj\Debug\IOStreams.Tests.pdb
