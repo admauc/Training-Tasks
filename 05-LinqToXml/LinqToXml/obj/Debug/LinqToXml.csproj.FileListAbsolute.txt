@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\05-LinqToXml\LinqToXml\bin\Debug\LinqToXml.dll
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\05-LinqToXml\LinqToXml\bin\Debug\LinqToXml.pdb
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\05-LinqToXml\LinqToXml\obj\Debug\LinqToXml.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\05-LinqToXml\LinqToXml\obj\Debug\LinqToXml.dll
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\05-LinqToXml\LinqToXml\obj\Debug\LinqToXml.pdb
