@@ -116,13 +116,13 @@ namespace Task.Generics {
                 {
                 case 0:
                     Array.Sort(array.Select(x => x.Item1).ToArray(), array);
-                                                        break;
-                                                    case 1:
+                    break;
+                    case 1:
                     Array.Sort(array.Select(x => x.Item2).ToArray(), array);
-                                                        break;
-                                                    case 2:
+                    break;
+                    case 2:
                     Array.Sort(array.Select(x => x.Item3).ToArray(), array);
-                                                        break;
+                    break;
                     default: throw new IndexOutOfRangeException("sortedColumn is out of range.");
                 }
                 if (!ascending)
