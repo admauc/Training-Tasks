@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\02-Generics\Generics.Test\bin\Debug\Generics.Test.dll
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\02-Generics\Generics.Test\bin\Debug\Generics.Test.pdb
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\02-Generics\Generics.Test\bin\Debug\Generics.dll
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\02-Generics\Generics.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\02-Generics\Generics.Test\bin\Debug\Generics.pdb
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\02-Generics\Generics.Test\obj\Debug\Generics.Test.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\02-Generics\Generics.Test\obj\Debug\Generics.Test.dll
+C:\Users\User\Desktop\aorgish-net-training-tasks-32449dfbbae5\02-Generics\Generics.Test\obj\Debug\Generics.Test.pdb
