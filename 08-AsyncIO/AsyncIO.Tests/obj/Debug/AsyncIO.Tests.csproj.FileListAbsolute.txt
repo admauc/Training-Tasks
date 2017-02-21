@@ -1,0 +1,20 @@
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\08-AsyncIO\AsyncIO.Tests\bin\Debug\AsyncIO.Tests.dll.config
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\08-AsyncIO\AsyncIO.Tests\bin\Debug\AsyncIO.Tests.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\08-AsyncIO\AsyncIO.Tests\bin\Debug\AsyncIO.Tests.pdb
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\08-AsyncIO\AsyncIO.Tests\bin\Debug\AsyncIO.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\08-AsyncIO\AsyncIO.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\08-AsyncIO\AsyncIO.Tests\bin\Debug\AsyncIO.pdb
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\08-AsyncIO\AsyncIO.Tests\obj\Debug\AsyncIO.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\08-AsyncIO\AsyncIO.Tests\obj\Debug\AsyncIO.Tests.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\08-AsyncIO\AsyncIO.Tests\obj\Debug\AsyncIO.Tests.pdb
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\08-AsyncIO\AsyncIO.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\08-AsyncIO\AsyncIO.Tests\bin\Debug\AsyncIO.Tests.dll.config
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\08-AsyncIO\AsyncIO.Tests\bin\Debug\AsyncIO.Tests.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\08-AsyncIO\AsyncIO.Tests\bin\Debug\AsyncIO.Tests.pdb
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\08-AsyncIO\AsyncIO.Tests\bin\Debug\AsyncIO.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\08-AsyncIO\AsyncIO.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\08-AsyncIO\AsyncIO.Tests\bin\Debug\AsyncIO.pdb
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\08-AsyncIO\AsyncIO.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\08-AsyncIO\AsyncIO.Tests\obj\Debug\AsyncIO.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\08-AsyncIO\AsyncIO.Tests\obj\Debug\AsyncIO.Tests.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\08-AsyncIO\AsyncIO.Tests\obj\Debug\AsyncIO.Tests.pdb

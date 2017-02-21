@@ -1,0 +1,10 @@
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\08-AsyncIO\AsyncIO\bin\Debug\AsyncIO.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\08-AsyncIO\AsyncIO\bin\Debug\AsyncIO.pdb
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\08-AsyncIO\AsyncIO\obj\Debug\AsyncIO.csprojResolveAssemblyReference.cache
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\08-AsyncIO\AsyncIO\obj\Debug\AsyncIO.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\08-AsyncIO\AsyncIO\obj\Debug\AsyncIO.pdb
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\08-AsyncIO\AsyncIO\bin\Debug\AsyncIO.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\08-AsyncIO\AsyncIO\bin\Debug\AsyncIO.pdb
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\08-AsyncIO\AsyncIO\obj\Debug\AsyncIO.csprojResolveAssemblyReference.cache
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\08-AsyncIO\AsyncIO\obj\Debug\AsyncIO.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\08-AsyncIO\AsyncIO\obj\Debug\AsyncIO.pdb
