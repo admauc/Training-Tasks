@@ -1,0 +1,20 @@
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\09-Serialization\Serialization.Tests\bin\Debug\Resources\GoogleSearchJson.txt
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\09-Serialization\Serialization.Tests\bin\Debug\Resources\CLR-ETW.man
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\09-Serialization\Serialization.Tests\bin\Debug\Serialization.Tests.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\09-Serialization\Serialization.Tests\bin\Debug\Serialization.Tests.pdb
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\09-Serialization\Serialization.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\09-Serialization\Serialization.Tests\bin\Debug\Serialization.Tasks.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\09-Serialization\Serialization.Tests\bin\Debug\Serialization.Tasks.pdb
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\09-Serialization\Serialization.Tests\obj\Debug\Serialization.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\09-Serialization\Serialization.Tests\obj\Debug\Serialization.Tests.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\09-Serialization\Serialization.Tests\obj\Debug\Serialization.Tests.pdb
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\09-Serialization\Serialization.Tests\bin\Debug\Resources\GoogleSearchJson.txt
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\09-Serialization\Serialization.Tests\bin\Debug\Resources\CLR-ETW.man
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\09-Serialization\Serialization.Tests\bin\Debug\Serialization.Tests.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\09-Serialization\Serialization.Tests\bin\Debug\Serialization.Tests.pdb
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\09-Serialization\Serialization.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\09-Serialization\Serialization.Tests\bin\Debug\Serialization.Tasks.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\09-Serialization\Serialization.Tests\bin\Debug\Serialization.Tasks.pdb
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\09-Serialization\Serialization.Tests\obj\Debug\Serialization.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\09-Serialization\Serialization.Tests\obj\Debug\Serialization.Tests.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\09-Serialization\Serialization.Tests\obj\Debug\Serialization.Tests.pdb

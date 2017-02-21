@@ -1,0 +1,12 @@
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\09-Serialization\Serialization.Tasks\bin\Debug\Serialization.Tasks.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\09-Serialization\Serialization.Tasks\bin\Debug\Serialization.Tasks.pdb
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\09-Serialization\Serialization.Tasks\obj\Debug\Serialization.Tasks.csprojResolveAssemblyReference.cache
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\09-Serialization\Serialization.Tasks\obj\Debug\Serialization.Tasks.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\09-Serialization\Serialization.Tasks\obj\Debug\Serialization.Tasks.pdb
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\09-Serialization\Serialization.Tasks\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\09-Serialization\Serialization.Tasks\obj\Debug\Serialization.Tasks.csprojResolveAssemblyReference.cache
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\09-Serialization\Serialization.Tasks\obj\Debug\Serialization.Tasks.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\09-Serialization\Serialization.Tasks\obj\Debug\Serialization.Tasks.pdb
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\09-Serialization\Serialization.Tasks\bin\Debug\Serialization.Tasks.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\09-Serialization\Serialization.Tasks\bin\Debug\Serialization.Tasks.pdb
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\09-Serialization\Serialization.Tasks\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
