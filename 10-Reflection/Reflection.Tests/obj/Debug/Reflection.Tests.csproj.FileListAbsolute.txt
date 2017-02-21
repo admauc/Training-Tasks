@@ -1,0 +1,16 @@
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\10-Reflection\Reflection.Tests\bin\Debug\Reflection.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\10-Reflection\Reflection.Tests\bin\Debug\Reflection.pdb
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\10-Reflection\Reflection.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\10-Reflection\Reflection.Tests\bin\Debug\Reflection.Tasks.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\10-Reflection\Reflection.Tests\bin\Debug\Reflection.Tasks.pdb
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\10-Reflection\Reflection.Tests\obj\Debug\Reflection.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\10-Reflection\Reflection.Tests\obj\Debug\Reflection.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\10-Reflection\Reflection.Tests\obj\Debug\Reflection.pdb
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\10-Reflection\Reflection.Tests\bin\Debug\Reflection.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\10-Reflection\Reflection.Tests\bin\Debug\Reflection.pdb
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\10-Reflection\Reflection.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\10-Reflection\Reflection.Tests\bin\Debug\Reflection.Tasks.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\10-Reflection\Reflection.Tests\bin\Debug\Reflection.Tasks.pdb
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\10-Reflection\Reflection.Tests\obj\Debug\Reflection.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\10-Reflection\Reflection.Tests\obj\Debug\Reflection.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\10-Reflection\Reflection.Tests\obj\Debug\Reflection.pdb

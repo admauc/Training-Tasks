@@ -1,0 +1,10 @@
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\10-Reflection\Reflection.Tasks\bin\Debug\Reflection.Tasks.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\10-Reflection\Reflection.Tasks\bin\Debug\Reflection.Tasks.pdb
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\10-Reflection\Reflection.Tasks\obj\Debug\Reflection.Tasks.csprojResolveAssemblyReference.cache
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\10-Reflection\Reflection.Tasks\obj\Debug\Reflection.Tasks.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\Задания по C#\10-Reflection\Reflection.Tasks\obj\Debug\Reflection.Tasks.pdb
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\10-Reflection\Reflection.Tasks\bin\Debug\Reflection.Tasks.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\10-Reflection\Reflection.Tasks\bin\Debug\Reflection.Tasks.pdb
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\10-Reflection\Reflection.Tasks\obj\Debug\Reflection.Tasks.csprojResolveAssemblyReference.cache
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\10-Reflection\Reflection.Tasks\obj\Debug\Reflection.Tasks.dll
+C:\Users\Mikalai_Stsiapanau\Desktop\C#\10-Reflection\Reflection.Tasks\obj\Debug\Reflection.Tasks.pdb
