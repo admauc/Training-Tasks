@@ -170,7 +170,7 @@ namespace Task.Generics
         {
             int count = 3;
             int tries = 0;
-            do
+            while (true)
             {
                 try
                 {
@@ -186,8 +186,7 @@ namespace Task.Generics
                     }
                     else throw;
                 }
-            } while (true);
-
+            } 
         }
 
 
